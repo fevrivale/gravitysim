@@ -1,5 +1,5 @@
-#ifndef FUCKASS_H
-#define FUCKASS_H
+#ifndef header_H
+#define header_H
 
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
